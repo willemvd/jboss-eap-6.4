@@ -1,0 +1,10 @@
+distribution/*
+!distribution/README.md
+jce-unlimited/*
+!jce-unlimited/README.md
+modules/*
+!modules/README.md
+patches/*
+!patches/README.md
+trusted-root-ca/*
+!trusted-root-ca/README.md
